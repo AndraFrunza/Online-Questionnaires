@@ -1,0 +1,17 @@
+#content_c{
+    background-color: rgb(76, 76, 119);
+    min-height:500px;
+    padding: 145px 5px 5px 5px;
+    background-image: url("../img/smoke.jpg");
+    background-size:cover;
+}
+#buton{
+    width:130px;
+    height:30px;
+    margin:auto;
+    color: aliceblue;
+    background-color:rgb(14, 23, 73);
+}
+#buton:hover{
+    background-color: rgb(45, 54, 104);
+}
